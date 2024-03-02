@@ -1,0 +1,22 @@
+{
+  "name": "hello-npm-ary",
+  "version": "1.0.0",
+  "description": "Hello NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarzaary/hello_npm_ary.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Ary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarzaary/hello_npm_ary/issues"
+  },
+  "homepage": "https://github.com/aarzaary/hello_npm_ary#readme"
+}
