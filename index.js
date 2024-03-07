@@ -1,5 +1,8 @@
+import chalk from 'chalk';
+import random from 'random';
+
 function hellonpm() {
-  return "Hello NPM"
+	return chalk.red(`[${random.int(1,1000)}] Hello NPM`);
 }
 
-module.exports = hellonpm
+export default hellonpm
